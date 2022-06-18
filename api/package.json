@@ -7,6 +7,7 @@
     "aws-sdk": "^2.1154.0"
   },
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.100"
+    "@types/aws-lambda": "^8.10.100",
+    "@types/validator": "^13.7.3"
   }
 }
